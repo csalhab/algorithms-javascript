@@ -95,23 +95,23 @@ Solves Fizz Buzz problem.
 
     - Given the preceding array, the following should be printed to the console:
 
-      13;
+          13;
 
-      14;
+          14;
 
-      ("Fizz Buzz");
+          ("Fizz Buzz");
 
-      16
+          16
 
-      17;
+          17;
 
-      ("Fizz");
+          ("Fizz");
 
-      19;
+          19;
 
-      ("Buzz");
+          ("Buzz");
 
-- You can check to see if your function works properly by opening [sum-array/test.html](sum-array/test.html) in your web browser.
+- You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
 
   - Functions that pass the tests will be denoted with a green check mark.
 
