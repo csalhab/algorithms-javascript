@@ -11,6 +11,7 @@ Holds many algorithms.
 - [Countdown](#countdown)
 - [Sum Array](#sum-array)
 - [Fizz Buzz](#fizz-buzz)
+- [Max Num](#max-num)
 
 ---
 
@@ -110,6 +111,26 @@ Solves Fizz Buzz problem.
           19;
 
           ("Buzz");
+
+- You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Max Num
+
+Return the largest number present in the given `arr` array.
+
+      - See the following array for an example:
+
+        var arr = [3, 1, 17, 5, 6];
+
+      - Given the preceding array, the following number should be returned:
+
+        17;
 
 - You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
 
