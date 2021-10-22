@@ -145,7 +145,31 @@ Return the largest number present in the given `arr` array.
 
 Counts the number of vowels in a given string.
 
-- You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
+- You can check to see if your function works properly by opening [vowel-count/test.html](vowel-count/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Palindrome
+
+This function takes in a string and determines whether or not it is a palindrome. A **palindrome** is any string spelled the same forwards as it is backwards.
+
+    * Return `true` if the given string is a palindrome.
+
+    * Return `false` if the given string is not a palindrome.
+
+      * See the following string for an example:
+
+        var str = "racecar";
+
+      * Given the preceding string, the following should be returned:
+
+        true;
+
+- You can check to see if your function works properly by opening [palindrome/test.html](palindrome/test.html) in your web browser.
 
   - Functions that pass the tests will be denoted with a green check mark.
 
