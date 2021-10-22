@@ -133,7 +133,7 @@ Return the largest number present in the given `arr` array.
 
         17;
 
-- You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
+- You can check to see if your function works properly by opening [max-num/test.html](max-num/test.html) in your web browser.
 
   - Functions that pass the tests will be denoted with a green check mark.
 
