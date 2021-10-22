@@ -12,6 +12,7 @@ Holds many algorithms.
 - [Sum Array](#sum-array)
 - [Fizz Buzz](#fizz-buzz)
 - [Max Num](#max-num)
+- [Vowel count](#vowel-count)
 
 ---
 
@@ -131,6 +132,18 @@ Return the largest number present in the given `arr` array.
       - Given the preceding array, the following number should be returned:
 
         17;
+
+- You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Vowel Count
+
+Counts the number of vowels in a given string.
 
 - You can check to see if your function works properly by opening [fizz-buzz/test.html](fizz-buzz/test.html) in your web browser.
 
