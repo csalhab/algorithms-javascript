@@ -13,6 +13,7 @@ Holds many algorithms.
 - [Fizz Buzz](#fizz-buzz)
 - [Max Num](#max-num)
 - [Vowel count](#vowel-count)
+- [palindrome](#palindrome)
 
 ---
 
