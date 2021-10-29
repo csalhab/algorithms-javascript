@@ -14,6 +14,7 @@ Holds many algorithms.
 - [Max Num](#max-num)
 - [Vowel count](#vowel-count)
 - [palindrome](#palindrome)
+- [factorial](#factorial)
 
 ---
 
@@ -171,6 +172,31 @@ This function takes in a string and determines whether or not it is a palindrome
         true;
 
 - You can check to see if your function works properly by opening [palindrome/test.html](palindrome/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Factorial
+
+A **factorial** of a number is the product of all positive integers less than or equal to the number. For more information, see the [Wikipedia page on factorials](https://en.wikipedia.org/wiki/Factorial).
+
+    * Return the factorial of the given `num` integer.
+
+    * See the following code for an example:
+
+      var num = 3;
+
+    * Given the preceding number, the following should be returned:
+
+      6;
+      // 1 x 2 x 3 === 6
+
+    * If given `0`, the factorial should be `1`. Otherwise, assume that the given number will be a whole positive number.
+
+- You can check to see if your function works properly by opening [factorial/test.html](factorial/test.html) in your web browser.
 
   - Functions that pass the tests will be denoted with a green check mark.
 
