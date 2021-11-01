@@ -15,6 +15,7 @@ Holds many algorithms.
 - [Vowel count](#vowel-count)
 - [palindrome](#palindrome)
 - [factorial](#factorial)
+- [title case](#title-case)
 
 ---
 
