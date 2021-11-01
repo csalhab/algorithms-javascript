@@ -205,4 +205,26 @@ A **factorial** of a number is the product of all positive integers less than or
 
 ---
 
+## Title Case
+
+Capitalize the first letter of each word.
+
+    * Return a string identical to the given `str` string, but with the first letter of each word capitalized.
+
+    * See the following string for an example:
+
+      var str = "open a new browser tab";
+
+    * Given the preceding string, the following should be returned:
+
+      "Open A New Browser Tab";
+
+- You can check to see if your function works properly by opening [title-case/test.html](title-case/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
 © 2021 All Rights Reserved.
