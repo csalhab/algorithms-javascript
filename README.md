@@ -13,10 +13,10 @@ Holds many algorithms.
 - [Fizz Buzz](#fizz-buzz)
 - [Max Num](#max-num)
 - [Vowel count](#vowel-count)
-- [palindrome](#palindrome)
-- [factorial](#factorial)
-- [title case](#title-case)
-- [character count](#character-count)
+- [Palindrome](#palindrome)
+- [Factorial](#factorial)
+- [Title Case](#title-case)
+- [Character Count](#character-count)
 
 ---
 
@@ -232,22 +232,21 @@ Capitalize the first letter of each word.
 
 Create a function that takes a string and returns an object containing the characters in the string and the number of times they appear.
 
+- In this file you will be writing code in the body of the `characterCount` function to achieve the following:
 
-  - In this file you will be writing code in the body of the `characterCount` function to achieve the following:
+  - Create a new object.
 
-    - Create a new object.
+  - Loop through each character in the given string and create a new key for each character in the string.
 
-    - Loop through each character in the given string and create a new key for each character in the string.
+  - The value of the character's key should be the number of times it appears in the string.
 
-    - The value of the character's key should be the number of times it appears in the string.
+  - See the following function for an example:
 
-    - See the following function for an example:
+    var str = "Hello World!";
 
-      var str = "Hello World!";
+  - Given the preceding function, the following object should be returned:
 
-    - Given the preceding function, the following object should be returned:
-
-      { H: 1, e: 1, l: 3, o: 2, ' ': 1, W: 1, r: 1, d: 1, '!': 1 }
+    { H: 1, e: 1, l: 3, o: 2, ' ': 1, W: 1, r: 1, d: 1, '!': 1 }
 
 - You can check to see if your function works properly by opening [character-count/test.html](character-count/test.html) in your web browser.
 
