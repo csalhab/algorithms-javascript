@@ -17,6 +17,7 @@ Holds many algorithms.
 - [Factorial](#factorial)
 - [Title Case](#title-case)
 - [Character Count](#character-count)
+- [Product Of Largest Two](#product-of-largest-two)
 
 ---
 
@@ -249,6 +250,30 @@ Create a function that takes a string and returns an object containing the chara
     { H: 1, e: 1, l: 3, o: 2, ' ': 1, W: 1, r: 1, d: 1, '!': 1 }
 
 - You can check to see if your function works properly by opening [character-count/test.html](character-count/test.html) in your web browser.
+
+  - Functions that pass the tests will be denoted with a green check mark.
+
+  - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Product Of Largest Two
+
+    * Find the largest and the second largest numbers in the given array.
+
+    * Return the product of the largest and the second largest number.
+
+    * See the following array for an example:
+
+      var arr = [10, 20, 9, 6, 3]; // largest is 20, secondLargest is 10
+
+    * Given the preceding array, the following product should be returned:
+
+      200
+
+    * **Note:** The given array will always contain at least two elements.
+
+- You can check to see if your function works properly by opening [product-largest-two/test.html](product-largest-two/test.html) in your web browser.
 
   - Functions that pass the tests will be denoted with a green check mark.
 
