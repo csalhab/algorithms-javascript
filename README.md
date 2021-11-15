@@ -298,6 +298,12 @@ Create a function that takes a string and returns an object containing the chara
 
     * Return the final result in an array, with only the door number included in the array if it is open.
 
+    NOTE:
+
+    Only Perfect Square doors will be open at the end.
+
+    DOORS: 1,4,9,16,25,36,49,64,81,100
+
 ---
 
 © 2021 All Rights Reserved.
