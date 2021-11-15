@@ -1,0 +1,19 @@
+/*
+Looking at “100 doors” we can make the following observations:
+-There are doors numbered 1 through 100 that start closed. We need to find all the numbers of the open doors at the end of the function, returned in an array.
+--We will iterate over the range 100 times, toggling the doors open/closed (represented by true/false)
+Each iteration over the range the gap between toggles increases by a multiple, incremented by one.
+-On the last iteration only the 100th door will be toggled.
+*/
+
+// Create an array of 100 boolean values
+// Create a counter starting at 1 that increments once with each iteration
+// While the counter is less than or equal to the number of doors carry out the following:
+// Keep track of the array index you are accessing, starting at the counter number.
+// Create another loop that iterates over the number of doors
+// For each index that it lands on, change the boolean value to the opposite of what it was
+// Increment the index by the counter number
+// Create an empty array and a variable to keep track of our current arrays index
+// Map over array of boolean arrays, incrementing index counter after each loop
+// When index value == true, push the index into the index array
+// Return the array of index numbers
