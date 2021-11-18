@@ -14,6 +14,7 @@ Holds many algorithms.
 - [Max Num](#max-num)
 - [Vowel count](#vowel-count)
 - [Palindrome](#palindrome)
+- [Palindrome No Test](#palindrome-no-test)
 - [Factorial](#factorial)
 - [Title Case](#title-case)
 - [Character Count](#character-count)
@@ -180,6 +181,26 @@ This function takes in a string and determines whether or not it is a palindrome
   - Functions that pass the tests will be denoted with a green check mark.
 
   - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Palindrome No Test
+
+This function takes in a string and determines whether or not it is a palindrome. A **palindrome** is any string spelled the same forwards as it is backwards.
+
+    * Return `true` if the given string is a palindrome.
+
+    * Return `false` if the given string is not a palindrome.
+
+      * See the following string for an example:
+
+        var str = "racecar";
+
+      * Given the preceding string, the following should be returned:
+
+        true;
+
+- Run using node on [palindrome-no-test/test.html](palindrome-no-test/test.html)
 
 ---
 
