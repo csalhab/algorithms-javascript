@@ -15,7 +15,7 @@ function palindrome(str) {
   // So, "amanaplanacanalpanama".split('').reverse().join('') = "amanaplanacanalpanama";
   // And, var reverseStr = "amanaplanacanalpanama";
 
-  // Step 3. Check if reverseStr is strictly equals to lowRegStr and return a Boolean
+  // Step 3. Check if reverseStr is strictly equals to lowRegStr and return a Boolean indicating true or false depending on check
   return reverseStr === lowRegStr; // "amanaplanacanalpanama" === "amanaplanacanalpanama"? => true
 }
 
