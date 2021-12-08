@@ -16,6 +16,7 @@ Holds many algorithms.
 - [Palindrome](#palindrome)
 - [Palindrome No Test](#palindrome-no-test)
 - [Factorial](#factorial)
+- [Fibonacci](#fibonacci)
 - [Title Case](#title-case)
 - [Character Count](#character-count)
 - [Product Of Largest Two](#product-of-largest-two)
@@ -226,6 +227,18 @@ A **factorial** of a number is the product of all positive integers less than or
   - Functions that pass the tests will be denoted with a green check mark.
 
   - Functions that fail the tests will be denoted with a red X and an error message.
+
+---
+
+## Fibonacci
+
+The **_Fibonacci_** sequence is one of the most famous formulas in mathematics.
+
+Each number in the sequence is the sum of the two numbers that precede it. So, the sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
+
+The mathematical equation describing it is:
+
+Xn+2= Xn+1 + Xn.
 
 ---
 
