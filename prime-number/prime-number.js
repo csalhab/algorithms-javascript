@@ -15,4 +15,6 @@ function test_prime(n) {
 }
 
 //trigger for checking if a number is a prime number:
-//console.log(test_prime(12));
+console.log(test_prime(12));
+console.log(test_prime(15));
+console.log(test_prime(17));
