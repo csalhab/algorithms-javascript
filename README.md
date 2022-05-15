@@ -2,7 +2,7 @@
 
 ## Description
 
-Holds many algorithms.
+Many algorithms are covered here.
 
 ## Table of Contents
 
