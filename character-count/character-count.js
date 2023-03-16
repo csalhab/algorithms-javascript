@@ -19,3 +19,5 @@ var characterCount = function (str) {
 
   //the value of the char's key should be the number of times it appears in the string
 };
+
+characterCount("nndNfdfdf");
